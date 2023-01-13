@@ -1,3 +1,5 @@
+<i>This is not a fork of somebody else's code. I, [@BobMcDear](https://github.com/BobMcDear), am the original creator of this project but due to problems with Git was forced to delete and restore it. In other words, [yy1401/PyTorch-SimMIM](https://github.com/yy1401/PyTorch-SimMIM) is a fork of this repository and not vice versa.</i>
+
 # PyTorch-SimMIM
 ## Description
 This is an implementation of SimMIM, a simple framework for masked image modelling, in PyTorch. You can find the accompanying blog [here](https://borna-ahz.medium.com/simmim-in-pytorch-64fdde781d5b).
