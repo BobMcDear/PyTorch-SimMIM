@@ -2,7 +2,7 @@
 
 # PyTorch-SimMIM
 ## Description
-This is an implementation of SimMIM, a simple framework for masked image modelling, in PyTorch. You can find the accompanying blog [here](https://borna-ahz.medium.com/simmim-in-pytorch-64fdde781d5b).
+This is an implementation of SimMIM, a simple framework for masked image modelling, in PyTorch.
 
 ## Usage
 ```SimMIM``` in ```model.py``` is the central class of this implementation, and its behaviour is straightforward. It receives a vision transformer from the ```timm``` library, 
